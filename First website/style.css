@@ -1,0 +1,80 @@
+header{
+	background-image: url("https://media.brstatic.com/2017/05/11161244/GettyImages-669995830.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center fixed;
+	height: 500px;
+	margin-bottom: 36px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	margin-top: 0px;
+}
+
+body{
+	background-color: red;
+	font-family: "Rubik";
+}
+
+section{
+	background-color: darkred;
+	margin-bottom:10px;
+	padding:12px;
+	border:20px;
+	color:white;
+}
+
+aside{
+	background-color: darkred;
+	margin-bottom:36px;
+	padding:12px;
+	border:20px;
+	color:white;
+}	
+}
+
+h2, h3{
+	text-align: center;
+	color: white;
+}
+
+p{
+	color:white;
+}
+
+iframe{
+	display: block;
+	margin: 0 auto;
+}
+
+.tabletitle{
+	font-size: 20px;
+}
+
+footer{
+	margin-bottom:5px
+	border:5px;
+	clear:both;
+}
+
+.container{
+	width:75%;
+	margin:0 auto;
+	float:left;
+}
+
+.aside-container{
+	width:20%;
+	margin:0 auto;
+	float: right;
+}
+
+.marvel-img{
+	height:200px;
+}
+
+.marvel-txt{
+	text-align: center
+}
